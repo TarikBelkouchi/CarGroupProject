@@ -1,21 +1,25 @@
 ﻿using System;
+using CarGroupProject;
 
-public class CarLot : Cars
+public class CarLot
 {
     public List<Cars> CarLotList { get; set; }
         
     public CarLot()
-
-        public void removeCarLotList(Cars x)
     {
-        carLotList.Remove(x);
+        CarLotList = new List<Cars>();
     }
+    public void RemoveCarLotList(Cars x)
+    {
+        CarLotList.Remove(x);
+    }
+
 
 
     public void AddCarLotList(Cars x)
     {
-        CarLotList.add(x)
-            }
+        CarLotList.Add(x);
+    }
     public void PrintCarLotList()
     {
         foreach (Cars x in CarLotList)

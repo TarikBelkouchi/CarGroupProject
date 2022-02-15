@@ -1,7 +1,7 @@
 ﻿using System;
 namespace CarGroupProject
 {
-	internal class Cars
+	public class Cars
 	{
 		string Make { get; set; }
 		string Model { get; set; }
