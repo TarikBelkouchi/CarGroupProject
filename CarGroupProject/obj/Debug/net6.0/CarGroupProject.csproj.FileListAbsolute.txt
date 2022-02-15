@@ -1,0 +1,15 @@
+/Users/tarik/Desktop/classs/CarGroupProject/CarGroupProject/obj/Debug/net6.0/CarGroupProject.csproj.AssemblyReference.cache
+/Users/tarik/Desktop/classs/CarGroupProject/CarGroupProject/obj/Debug/net6.0/CarGroupProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tarik/Desktop/classs/CarGroupProject/CarGroupProject/obj/Debug/net6.0/CarGroupProject.AssemblyInfoInputs.cache
+/Users/tarik/Desktop/classs/CarGroupProject/CarGroupProject/obj/Debug/net6.0/CarGroupProject.AssemblyInfo.cs
+/Users/tarik/Desktop/classs/CarGroupProject/CarGroupProject/obj/Debug/net6.0/CarGroupProject.csproj.CoreCompileInputs.cache
+/Users/tarik/Desktop/classs/CarGroupProject/CarGroupProject/bin/Debug/net6.0/CarGroupProject
+/Users/tarik/Desktop/classs/CarGroupProject/CarGroupProject/bin/Debug/net6.0/CarGroupProject.deps.json
+/Users/tarik/Desktop/classs/CarGroupProject/CarGroupProject/bin/Debug/net6.0/CarGroupProject.runtimeconfig.json
+/Users/tarik/Desktop/classs/CarGroupProject/CarGroupProject/bin/Debug/net6.0/CarGroupProject.dll
+/Users/tarik/Desktop/classs/CarGroupProject/CarGroupProject/bin/Debug/net6.0/ref/CarGroupProject.dll
+/Users/tarik/Desktop/classs/CarGroupProject/CarGroupProject/bin/Debug/net6.0/CarGroupProject.pdb
+/Users/tarik/Desktop/classs/CarGroupProject/CarGroupProject/obj/Debug/net6.0/CarGroupProject.dll
+/Users/tarik/Desktop/classs/CarGroupProject/CarGroupProject/obj/Debug/net6.0/ref/CarGroupProject.dll
+/Users/tarik/Desktop/classs/CarGroupProject/CarGroupProject/obj/Debug/net6.0/CarGroupProject.pdb
+/Users/tarik/Desktop/classs/CarGroupProject/CarGroupProject/obj/Debug/net6.0/CarGroupProject.genruntimeconfig.cache
