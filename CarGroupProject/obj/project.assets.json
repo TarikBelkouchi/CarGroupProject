@@ -8,24 +8,31 @@
     "net6.0": []
   },
   "packageFolders": {
-    "/Users/tarik/.nuget/packages/": {}
+    "C:\\Users\\Jon\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/tarik/Desktop/classs/CarGroupProject/CarGroupProject/CarGroupProject.csproj",
+      "projectUniqueName": "C:\\Users\\Jon\\Desktop\\GC\\Group Project\\CarGroupProject\\CarGroupProject\\CarGroupProject.csproj",
       "projectName": "CarGroupProject",
-      "projectPath": "/Users/tarik/Desktop/classs/CarGroupProject/CarGroupProject/CarGroupProject.csproj",
-      "packagesPath": "/Users/tarik/.nuget/packages/",
-      "outputPath": "/Users/tarik/Desktop/classs/CarGroupProject/CarGroupProject/obj/",
+      "projectPath": "C:\\Users\\Jon\\Desktop\\GC\\Group Project\\CarGroupProject\\CarGroupProject\\CarGroupProject.csproj",
+      "packagesPath": "C:\\Users\\Jon\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Jon\\Desktop\\GC\\Group Project\\CarGroupProject\\CarGroupProject\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "/Users/tarik/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\Jon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -58,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.101/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }

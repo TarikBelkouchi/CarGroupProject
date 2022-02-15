@@ -13,3 +13,18 @@
 /Users/tarik/Desktop/classs/CarGroupProject/CarGroupProject/obj/Debug/net6.0/ref/CarGroupProject.dll
 /Users/tarik/Desktop/classs/CarGroupProject/CarGroupProject/obj/Debug/net6.0/CarGroupProject.pdb
 /Users/tarik/Desktop/classs/CarGroupProject/CarGroupProject/obj/Debug/net6.0/CarGroupProject.genruntimeconfig.cache
+C:\Users\Jon\Desktop\GC\Group Project\CarGroupProject\CarGroupProject\bin\Debug\net6.0\CarGroupProject.exe
+C:\Users\Jon\Desktop\GC\Group Project\CarGroupProject\CarGroupProject\bin\Debug\net6.0\CarGroupProject.deps.json
+C:\Users\Jon\Desktop\GC\Group Project\CarGroupProject\CarGroupProject\bin\Debug\net6.0\CarGroupProject.runtimeconfig.json
+C:\Users\Jon\Desktop\GC\Group Project\CarGroupProject\CarGroupProject\bin\Debug\net6.0\CarGroupProject.dll
+C:\Users\Jon\Desktop\GC\Group Project\CarGroupProject\CarGroupProject\bin\Debug\net6.0\ref\CarGroupProject.dll
+C:\Users\Jon\Desktop\GC\Group Project\CarGroupProject\CarGroupProject\bin\Debug\net6.0\CarGroupProject.pdb
+C:\Users\Jon\Desktop\GC\Group Project\CarGroupProject\CarGroupProject\obj\Debug\net6.0\CarGroupProject.csproj.AssemblyReference.cache
+C:\Users\Jon\Desktop\GC\Group Project\CarGroupProject\CarGroupProject\obj\Debug\net6.0\CarGroupProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jon\Desktop\GC\Group Project\CarGroupProject\CarGroupProject\obj\Debug\net6.0\CarGroupProject.AssemblyInfoInputs.cache
+C:\Users\Jon\Desktop\GC\Group Project\CarGroupProject\CarGroupProject\obj\Debug\net6.0\CarGroupProject.AssemblyInfo.cs
+C:\Users\Jon\Desktop\GC\Group Project\CarGroupProject\CarGroupProject\obj\Debug\net6.0\CarGroupProject.csproj.CoreCompileInputs.cache
+C:\Users\Jon\Desktop\GC\Group Project\CarGroupProject\CarGroupProject\obj\Debug\net6.0\CarGroupProject.dll
+C:\Users\Jon\Desktop\GC\Group Project\CarGroupProject\CarGroupProject\obj\Debug\net6.0\ref\CarGroupProject.dll
+C:\Users\Jon\Desktop\GC\Group Project\CarGroupProject\CarGroupProject\obj\Debug\net6.0\CarGroupProject.pdb
+C:\Users\Jon\Desktop\GC\Group Project\CarGroupProject\CarGroupProject\obj\Debug\net6.0\CarGroupProject.genruntimeconfig.cache
